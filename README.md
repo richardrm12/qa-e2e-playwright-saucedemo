@@ -1,4 +1,5 @@
-﻿# QA E2E Playwright - SauceDemo
+﻿[![CI](https://github.com/richardrm12/qa-e2e-playwright-saucedemo/actions/workflows/ci.yml/badge.svg)](https://github.com/richardrm12/qa-e2e-playwright-saucedemo/actions/workflows/ci.yml)
+# QA E2E Playwright - SauceDemo
 
 Automatización E2E con Playwright + TypeScript usando Page Object Model (POM) y reportes Allure contra https://www.saucedemo.com.
 
@@ -35,3 +36,4 @@ npm run allure:open
 
 ## CI
 - Workflow en .github/workflows/ci.yml ejecuta pruebas y sube `allure-results` como artefacto.
+
