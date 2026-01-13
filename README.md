@@ -1,7 +1,7 @@
 ﻿[![CI](https://github.com/richardrm12/qa-e2e-playwright-saucedemo/actions/workflows/ci.yml/badge.svg)](https://github.com/richardrm12/qa-e2e-playwright-saucedemo/actions/workflows/ci.yml)
 # QA E2E Playwright - SauceDemo
 
-Automatización E2E con Playwright + TypeScript usando Page Object Model (POM) y reportes Allure contra https://www.saucedemo.com.
+Automatización E2E con Playwright + TypeScript usando Page Object Model (POM) y reportes Allure en https://www.saucedemo.com.
 
 ## Requisitos
 - Node.js 18+ (recomendado 20)
